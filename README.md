@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Repository for Coursera capstone project.
+# coursera_capstone
+Repository for Coursera capstone project by Matthew.
